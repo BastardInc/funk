@@ -1,2 +1,4 @@
-delta
-true
+{
+  "u": "delta",
+  "a": true
+}
